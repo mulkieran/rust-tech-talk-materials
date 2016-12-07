@@ -19,7 +19,14 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="rust_ancestors.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <path
+       d="m 136,-32 7,-4 -2,8 m 2,-8 C 107,12 100,15 61,61"
+       id="60eb4d62196445098d8a150f666604d4-0"
+       p:name="path"
+       style="fill:none;stroke-linejoin:round"
+       inkscape:connector-curvature="0" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,14 +35,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="135.71429"
+     inkscape:cx="269.35747"
      inkscape:cy="520"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="0731231304eb4ff394f0b35e7a4c8ce2-1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1168"
-     inkscape:window-x="1920"
+     inkscape:window-height="1143"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -339,7 +346,7 @@
          x="145"
          y="424.36218" /></text>
     <g
-       transform="translate(185.76758,786.07265)"
+       transform="translate(279.10567,872.33968)"
        id="0731231304eb4ff394f0b35e7a4c8ce2"
        p:def="Evolus.Common:PlainTextV2"
        p:type="Shape">
@@ -979,6 +986,122 @@
            id="tspan8647"
            y="0"
            x="0">Memory Models</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.81801151,0,0,0.71072852,245.58953,764.09141)"
+       id="bf83bb315f094b7abc722acbe071e7cb-9"
+       p:def="Evolus.Common:arrow"
+       p:type="Shape">
+      <p:metadata>
+        <p:property
+           name="startPin"><![CDATA[143,-36]]></p:property>
+        <p:property
+           name="endPin"><![CDATA[61,61]]></p:property>
+        <p:property
+           name="withStartArrow"><![CDATA[true]]></p:property>
+        <p:property
+           name="withEndArrow"><![CDATA[false]]></p:property>
+        <p:property
+           name="mode"><![CDATA[curvy]]></p:property>
+        <p:property
+           name="detached"><![CDATA[false]]></p:property>
+        <p:property
+           name="strokeColor"><![CDATA[#1B3280FF]]></p:property>
+        <p:property
+           name="strokeStyle"><![CDATA[2|]]></p:property>
+        <p:property
+           name="textContent" />
+        <p:property
+           name="textFont"><![CDATA["Liberation Sans",Arial,sans-serif|normal|normal|13px|none]]></p:property>
+        <p:property
+           name="textColor"><![CDATA[#000000FF]]></p:property>
+        <p:property
+           name="textAlign"><![CDATA[1,1]]></p:property>
+      </p:metadata>
+      <defs
+         id="defs8377-6">
+        <path
+           d="m 136,-32 7,-4 -2,8 m 2,-8 C 107,12 100,15 61,61"
+           id="path4260"
+           p:name="path"
+           style="fill:none;stroke-linejoin:round"
+           inkscape:connector-curvature="0" />
+      </defs>
+      <use
+         id="use8380-3"
+         xlink:href="#60eb4d62196445098d8a150f666604d4-0"
+         style="stroke:#ff0000;stroke-width:10;stroke-opacity:0"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         style="stroke:#1b3280;stroke-width:2;stroke-opacity:1"
+         id="4b2589761d4744248fac45b198516f07-8"
+         p:name="outArrow1"
+         xlink:href="#60eb4d62196445098d8a150f666604d4-0"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:13px;font-family:'Liberation Sans', Arial, sans-serif;text-decoration:none;text-decoration-line:none;fill:#000000;fill-opacity:1"
+         id="39fedf82ad894a4cb4c45e1c32fc8b0f-5"
+         p:name="text">
+        <textPath
+           id="textPath8384-6"
+           alignment-baseline="middle"
+           startOffset="50%"
+           xlink:href="#60eb4d62196445098d8a150f666604d4-0"
+           style="text-anchor:middle"><tspan
+   dx="16"
+   id="4968395e6ada4de980983250d94fd152-1"
+   p:name="textSpan"
+   dy="-4.3333335" />
+</textPath>
+      </text>
+    </g>
+    <g
+       transform="translate(122.72804,714.00455)"
+       id="0731231304eb4ff394f0b35e7a4c8ce2-1"
+       p:def="Evolus.Common:PlainTextV2"
+       p:type="Shape">
+      <p:metadata>
+        <p:property
+           name="disabled"><![CDATA[false]]></p:property>
+        <p:property
+           name="width"><![CDATA[100,0]]></p:property>
+        <p:property
+           name="fixedWidth"><![CDATA[false]]></p:property>
+        <p:property
+           name="label"><![CDATA[First-Class Functions]]></p:property>
+        <p:property
+           name="textColor"><![CDATA[#000000FF]]></p:property>
+        <p:property
+           name="textFont"><![CDATA[sans-serif|normal|normal|18px|none]]></p:property>
+        <p:property
+           name="textAlign"><![CDATA[0,0]]></p:property>
+      </p:metadata>
+      <rect
+         height="0"
+         width="0"
+         id="f3fb9665a63e475385140246b90b7588-5"
+         p:name="bgRect"
+         style="display:none;visibility:hidden;fill:none;stroke:none"
+         y="0"
+         x="0" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:18px;line-height:125%;font-family:sans-serif;text-align:start;text-decoration:none;text-decoration-line:none;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+         id="8e1c69f63a7a451b9520ac5d4c27c047-9"
+         p:name="text"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"
+         x="46.669048"
+         y="60.811184"><tspan
+           sodipodi:role="line"
+           id="tspan4313"
+           x="46.669048"
+           y="60.811184">Hygienic Macros</tspan></text>
     </g>
   </g>
 </svg>
